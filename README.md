@@ -12,8 +12,8 @@ Project 2
   BFS(Breadth First Search)
 
 Project 3
-  DFS(Depth Firts Search)
-  Cycle Detection with DFS
+  DFS(Depth Firts Search),
+   Cycle Detection with DFS
 
 Project 4
   Dijkrsta Algorithm
