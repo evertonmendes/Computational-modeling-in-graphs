@@ -17,3 +17,6 @@ Project 3
 
 Project 4
   Dijkrsta Algorithm
+  
+Project 5
+  Prim Algorithm
