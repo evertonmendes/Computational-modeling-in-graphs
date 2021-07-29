@@ -12,7 +12,7 @@ Project 2
   BFS(Breadth First Search)
 
 Project 3
-  DFS(Depth Firts Search),
+  DFS(Depth First Search),
    Cycle Detection with DFS
 
 Project 4
