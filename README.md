@@ -6,8 +6,8 @@ This repository contains the projects referring to the subject SCC0216. Traditio
 
 '''diff
 Project 1 in black
-  - Erdos Renyi Model in red
-  
+- Erdos Renyi Model in red
+'''  
 Project 2
   BFS(Breadth First Search)
 
@@ -29,4 +29,3 @@ Final Project
   C=
   D-
 
-'''
