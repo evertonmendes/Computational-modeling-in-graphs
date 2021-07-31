@@ -6,19 +6,23 @@ This repository contains the projects referring to the subject SCC0216. Traditio
 
 Project 1
   
-  (&#x1F534;): Erdos Renyi Model:
+    x1F534; Erdos Renyi Model:
   
 Project 2
-  (&#x1F534;):  BFS(Breadth First Search)
+  
+  &#x1F534;  BFS(Breadth First Search)
 
 Project 3
+  
   (&#x1F534;):  DFS(Depth First Search),
    Cycle Detection with DFS
 
 Project 4
+   
    (&#x1F534;):Dijkrsta Algorithm
   
 Project 5
+  
   (&#x1F534;):Prim Algorithm
   
   
