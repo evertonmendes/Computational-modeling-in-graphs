@@ -6,7 +6,7 @@ This repository contains the projects referring to the subject SCC0216. Traditio
 
 Project 1
   
-    (x1F534;): Erdos Renyi Model:
+    Erdos Renyi Model
   
 Project 2
   
