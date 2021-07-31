@@ -28,7 +28,7 @@ Project 5
   
 Final Project
   
-    Given a DAG(Direct Acyclic Graph), which each vertex have two parents or none.
+    Given a DAG(Directed Acyclic Graph), which each vertex have two parents or none.
     A - Find vertexs wih no parents.
     B - Find sink vertexs.
     C - Find sink vertexs whose parents are descendant of 1.
